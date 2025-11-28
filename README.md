@@ -244,7 +244,7 @@ This assignment demonstrates:
 
 ## 👥 Contributors
 
-[Peer Group Members]
+[D'vock Tyronne Akoi]
 
 ---
 
@@ -257,3 +257,4 @@ This project is submitted as part of the AI Ethics course assignment.
 **Submission**: GitHub Repository - https://github.com/Akoi100/AIweek7  
 **Date**: November 28, 2025  
 **Course**: AI Ethics
+
